@@ -1,2 +1,6 @@
 # my-first-project
 I will put python and html so look forward...
+I am grade 5 and i live in South Korea and go to an international school. 
+I am a beginner in GitHub, so please don't be mean. 
+I also have liscence... Remember.
+Thank you!
